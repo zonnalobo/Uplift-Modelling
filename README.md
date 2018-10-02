@@ -1,2 +1,2 @@
 # Uplift-Modelling
-We try to develop a library that provide all new methods to asses uplift models
+We try to develop a library that provide many methods to asses uplift models.
